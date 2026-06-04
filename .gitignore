@@ -7,3 +7,5 @@ build/
 *.tsbuildinfo
 coverage/
 .codegraph
+.scannerwork
+sonar-project.properties
